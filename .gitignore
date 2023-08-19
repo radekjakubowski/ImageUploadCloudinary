@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# omit appsettings.json due to Cloudinary credentials
+appsettings.json
